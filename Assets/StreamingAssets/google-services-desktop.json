@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249198127658",
+    "project_id": "balloon-boomx",
+    "storage_bucket": "balloon-boomx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249198127658:android:7d130f39708281829db153",
+        "android_client_info": {
+          "package_name": "com.turkcell.b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2WT5yl1g2qUCrnWB68dFRXVw-qJOpjSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
